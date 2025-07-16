@@ -1,2 +1,2 @@
-# articles
+# Articles
 For my Articles and Notes
